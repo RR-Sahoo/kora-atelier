@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 680" fill="none">
+  <rect width="900" height="680" fill="#18181B"/>
+  <rect x="36" y="36" width="828" height="608" stroke="#3F3F46" stroke-width="1"/>
+  <rect x="90" y="90" width="320" height="460" fill="#27272A"/>
+  <path d="M165 190 L335 190 L375 330 L325 345 L310 260 L310 510 L190 510 L190 260 L175 345 L125 330 Z" fill="#E4E0D8"/>
+  <rect x="460" y="90" width="350" height="460" fill="#202024"/>
+  <path d="M555 210 L715 210 L740 500 L655 500 L635 350 L615 500 L530 500 Z" fill="#A1988B"/>
+  <text x="450" y="612" text-anchor="middle" fill="#D4D4D8" font-family="system-ui, sans-serif" font-size="13" letter-spacing="6">ATELIER LOOKBOOK • AUTUMN / WINTER</text>
+</svg>

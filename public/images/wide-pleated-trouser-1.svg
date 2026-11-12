@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 720" fill="none">
+  <rect width="600" height="720" fill="#F3F1EC"/>
+  <path d="M210 120 L390 120 L420 550 L325 550 L300 310 L275 550 L180 550 Z" fill="#1C1917"/><line x1="255" y1="150" x2="235" y2="530" stroke="#FAF9F6" stroke-width="1.5" stroke-opacity="0.35"/><line x1="345" y1="150" x2="365" y2="530" stroke="#FAF9F6" stroke-width="1.5" stroke-opacity="0.35"/>
+  <text x="300" y="645" text-anchor="middle" fill="#52525B" font-family="system-ui, sans-serif" font-size="12" letter-spacing="4">PLEATED TROUSER • FRONT VIEW</text>
+</svg>

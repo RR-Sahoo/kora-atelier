@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 720" fill="none">
+  <rect width="600" height="720" fill="#DFDAD0"/>
+  <path d="M190 135 L265 110 L300 165 L335 110 L410 135 L485 360 L415 380 L395 250 L415 565 L185 565 L205 250 L185 380 L115 360 Z" fill="#292524"/><rect x="198" y="310" width="204" height="18" fill="#18181B" fill-opacity="0.35"/>
+  <rect x="44" y="44" width="512" height="632" stroke="#18181B" stroke-opacity="0.12" stroke-width="1"/>
+  <text x="300" y="645" text-anchor="middle" fill="#3F3F46" font-family="system-ui, sans-serif" font-size="12" letter-spacing="4">STRUCTURED COAT • STUDIO DETAIL</text>
+</svg>

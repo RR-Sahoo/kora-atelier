@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 720" fill="none">
+  <rect width="600" height="720" fill="#E7E4DD"/>
+  <path d="M210 120 L390 120 L420 550 L325 550 L300 310 L275 550 L180 550 Z" fill="#52525B"/><line x1="255" y1="150" x2="235" y2="530" stroke="#FAF9F6" stroke-width="1.5" stroke-opacity="0.35"/><line x1="345" y1="150" x2="365" y2="530" stroke="#FAF9F6" stroke-width="1.5" stroke-opacity="0.35"/>
+  <rect x="44" y="44" width="512" height="632" stroke="#18181B" stroke-opacity="0.12" stroke-width="1"/>
+  <text x="300" y="645" text-anchor="middle" fill="#3F3F46" font-family="system-ui, sans-serif" font-size="12" letter-spacing="4">PLEATED TROUSER • STUDIO DETAIL</text>
+</svg>

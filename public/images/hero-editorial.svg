@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1050" fill="none">
+  <rect width="900" height="1050" fill="#EAE6DF"/>
+  <rect x="48" y="48" width="804" height="954" stroke="#D4CFC5" stroke-width="1.5"/>
+  <!-- Abstract architectural drape / editorial silhouette -->
+  <ellipse cx="450" cy="460" rx="230" ry="310" fill="#DCD6CC"/>
+  <path d="M310 310 C310 250 590 250 590 310 L650 510 L575 530 L550 410 L550 840 L350 840 L350 410 L325 530 L250 510 Z" fill="#18181B"/>
+  <path d="M395 270 Q450 315 505 270" stroke="#FAF9F6" stroke-width="3" fill="none"/>
+  <circle cx="450" cy="200" r="48" fill="#C8BFB2"/>
+  <text x="450" y="935" text-anchor="middle" fill="#18181B" font-family="Georgia, serif" font-size="26" letter-spacing="8">CAPSULE 04</text>
+  <text x="450" y="968" text-anchor="middle" fill="#71717A" font-family="system-ui, sans-serif" font-size="13" letter-spacing="4">HEAVYWEIGHT ESSENTIALS • 280–440 GSM</text>
+</svg>
